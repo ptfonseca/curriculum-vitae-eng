@@ -1,0 +1,194 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{carneiro2017abs}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e19d53579e6cb6b2be5e9fa92edafc39}{%
+           family={Carneiro},
+           familyi={C\bibinitperiod},
+           given={Inês},
+           giveni={I\bibinitperiod}}}%
+        {{hash=db622d388bff2f2c1f23c1efaa8ca9fb}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d53f7d12c5b4a7fdab8e6dee50024999}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Rosário},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{fullhash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{bibnamehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{authorbibnamehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{authornamehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{authorfullhash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1389-9457}
+      \field{journaltitle}{Sleep Medicine}
+      \field{note}{Conference abstract, 2017 World Sleep Conference}
+      \field{number}{Supplement 1}
+      \field{title}{Sleep habits and sleep disturbances in a pediatric population of {Cabo Verde}}
+      \field{volume}{40}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{e210\bibrangedash e211}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.sleep.2017.11.615
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1389945717310481
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1389945717310481
+      \endverb
+    \endentry
+    \entry{carneiro2019amp}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e19d53579e6cb6b2be5e9fa92edafc39}{%
+           family={Carneiro},
+           familyi={C\bibinitperiod},
+           given={Inês},
+           giveni={I\bibinitperiod}}}%
+        {{hash=db622d388bff2f2c1f23c1efaa8ca9fb}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d53f7d12c5b4a7fdab8e6dee50024999}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Rosário},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{fullhash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{bibnamehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{authorbibnamehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{authornamehash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \strng{authorfullhash}{83c0f62ed4a3a8900f9067b16f23eea6}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Médica Portuguesa}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Children's sleep habits questionnaire in two subpopulations from {C}ape {V}erde and {M}ozambique: exploratory and regression analysis}
+      \field{volume}{32}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{628\bibrangedash 634}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.20344/amp.11841
+      \endverb
+      \verb{urlraw}
+      \verb https://actamedicaportuguesa.com/revista/index.php/amp/article/view/11841/5769
+      \endverb
+      \verb{url}
+      \verb https://actamedicaportuguesa.com/revista/index.php/amp/article/view/11841/5769
+      \endverb
+    \endentry
+    \entry{carneiro2019nec}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{hash=e19d53579e6cb6b2be5e9fa92edafc39}{%
+           family={Carneiro},
+           familyi={C\bibinitperiod},
+           given={Inês},
+           giveni={I\bibinitperiod}}}%
+        {{hash=050275db61ba743b2781ec8b6ed17af6}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+        {{hash=db622d388bff2f2c1f23c1efaa8ca9fb}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=742732d1891d942ce15710e1cbcc510e}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=56af6ccd2fe8c4fb13e1798a012f6bc5}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Filomena},
+           giveni={F\bibinitperiod}}}%
+        {{hash=64eb75cc6465adabafefeea754c0ba48}{%
+           family={Braga},
+           familyi={B\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {scielopt}%
+      }
+      \strng{namehash}{24f3da8d5c998e7e275c433ba21884dd}
+      \strng{fullhash}{f0c960c0f1e29da089a67990e70fd5f5}
+      \strng{bibnamehash}{24f3da8d5c998e7e275c433ba21884dd}
+      \strng{authorbibnamehash}{24f3da8d5c998e7e275c433ba21884dd}
+      \strng{authornamehash}{24f3da8d5c998e7e275c433ba21884dd}
+      \strng{authorfullhash}{f0c960c0f1e29da089a67990e70fd5f5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0872-0754}
+      \field{journaltitle}{Nascer e Crescer - Birth and Growth Medical Journal}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Time to diagnosis of pediatric oncologic disease: ten-year experience from a level {II} hospital}
+      \field{volume}{28}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{179\bibrangedash 184}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S0872-07542019000400002&nrm=iso
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S0872-07542019000400002&nrm=iso
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
