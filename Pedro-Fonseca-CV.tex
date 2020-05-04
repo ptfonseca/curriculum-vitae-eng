@@ -76,7 +76,7 @@
 % Picture on the top left corner
 %-----------------------------------------------
 \begin{tikzpicture}[remember picture, overlay]
-   \node[anchor=north west,inner sep=3pt] at (current page.north west)
+   \node[anchor=north west,inner sep=11.8pt] at (current page.north west)
               {\includegraphics[scale=1]{images/foto.pdf}};
 \end{tikzpicture}
 
@@ -85,17 +85,30 @@
 \par{\centering{\sffamily\Huge Pedro Miguel Teles da Fonseca}\\ 
 {\color{headings}\fontspec[Variant = 2]{Zapfino} Curriculum {Vit\fontspec[Variant = 3]{Zapfino}\ae}\\[15pt]\par}
 
-\vspace{10pt}
+\vspace{7pt}
 
 % Colored box with personal info
 %----------------------------------------------- 
-\colorbox{shade}{
-\begin{tabular}{cccc}
-\Telefon \,\, +351 916 482 979 \,\,  & \multicolumn{2}{c}{\Letter \,\, pedro.teles.fonseca@outlook.com} \,\,  &	\includegraphics[scale=.048]{images/loc.png} \,\, Santar\'{e}m, Portugal\\[5pt]
 
-\multicolumn{2}{r}{\includegraphics[scale=.11]{images/in.png} \,\, \url{linkedin.com/in/pedro-teles-fonseca}} \,\, & \multicolumn{2}{l}{\raisebox{-1pt}{\includegraphics[scale=.038]{images/git.png}} \,\, \url{github.com/pedro-teles-fonseca}}
+\begin{tabular}{lr}
+\colorbox{shade}{
+\begin{tabular}{m{7cm}} 
+\Letter \,\, pedro.teles.fonseca@outlook.com\\
+\Telefon \,\, +351 916 482 979 \\
+\hspace{.5mm}\includegraphics[scale=.048]{images/loc.png} \,\, Santar\'{e}m, Portugal
 \end{tabular}
 }
+
+&
+\colorbox{shade}{
+\begin{tabular}{m{7cm}}
+\includegraphics[scale=.11]{images/in.png} \,\,  \url{linkedin.com/in/pedro-teles-fonseca}\\
+\includegraphics[scale=.038]{images/git.png} \,\, \url{github.com/pedro-teles-fonseca} \\
+ \\
+\end{tabular}
+}
+
+\end{tabular}
 
 \vspace{10pt}
 
