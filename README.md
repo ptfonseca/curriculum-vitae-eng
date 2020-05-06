@@ -10,3 +10,4 @@ In case anyone wants to use it as template:
 4. Compile with XeLaTex
 5. Profit :moneybag:
 
+Inspired in [this](https://texblog.org/2012/04/25/writing-a-cv-in-latex/) blog post and in [this](https://www.latextemplates.com/template/freeman-cv) template.
