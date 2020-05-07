@@ -1,6 +1,6 @@
 # Curriculum Vitae :books:
 
-This is my long, academic-style [CV](https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf) built with LaTex. It is still work in process, and probably will always be.
+This is my long, academic-style [CV](https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf) built with LaTex. 
 
 In case anyone wants to use it as template:
 
