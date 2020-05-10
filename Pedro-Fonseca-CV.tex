@@ -33,14 +33,14 @@
 
 %Definition of new colors
 %-----------------------------------------------
-\definecolor{linkcolor}{HTML}{506266} % Blue-gray color for links
 \definecolor{shade}{HTML}{F5DD9D}    % Peach color for the contact information box
 \definecolor{headings}{HTML}{701112} % Dark red color for headings
 \definecolor{lightgray}{gray}{0.8}            % For the vertical line on the timeline% Definition of new colors--
+%\definecolor{linkcolor}{HTML}{506266} % Blue-gray color for links
 
 % url color and font
 %-----------------------------------------------
-\usepackage[colorlinks,urlcolor=linkcolor,bookmarks=false,hypertexnames=true]{hyperref}
+\usepackage[colorlinks,urlcolor=black,bookmarks=false,hypertexnames=true]{hyperref}
 \urlstyle{same} 
 
 % Customized section headers
@@ -84,8 +84,8 @@
 \begin{tabular}{lr}
 	\colorbox{shade}{
 	\begin{tabular}{m{7cm}} 
-	\Letter \,\, pedro.teles.fonseca@outlook.com\\
 	\Telefon \,\, +351 916 482 979 \\
+	\Letter \,\, \href{mailto: pedro.teles.fonseca@outlook.com}{pedro.teles.fonseca@outlook.com}\\
 	\hspace{.5mm}\includegraphics[scale=.048]{images/loc.png} \,\, Santar\'{e}m, Portugal
 \end{tabular}
 }
