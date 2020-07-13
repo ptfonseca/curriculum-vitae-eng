@@ -2,6 +2,8 @@
 
 This is my long, academic-style [CV](https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf) built with LaTeX. It is inspired in [this](https://texblog.org/2012/04/25/writing-a-cv-in-latex/) blog post and in [this](https://www.latextemplates.com/template/freeman-cv) template.
 
+<a href="https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf"><img src="https://raw.githubusercontent.com/pedro-teles-fonseca/curriculum-vitae-eng/master/images/CV-sample.png" class="center"  width="200" /></a>
+
 In case anyone wants to use it as template:
 
 1. Download or clone this repository
