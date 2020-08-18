@@ -1,6 +1,6 @@
 
 ![updated](https://img.shields.io/github/last-commit/pedro-teles-fonseca/curriculum-vitae-eng?label=Last%20update)
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-00CD00.svg)](https://www.latex-project.org/)
 
 # Curriculum Vitae :books:
 
