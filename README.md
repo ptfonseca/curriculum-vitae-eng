@@ -1,5 +1,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![Last Commit](https://img.shields.io/github/last-commit/pedro-teles-fonseca/curriculum-vitae-eng)
+
 
 # Curriculum Vitae :books:
 
