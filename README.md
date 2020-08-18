@@ -4,7 +4,7 @@
 
 # Curriculum Vitae :books:
 
-This is my long, academic-style [CV](https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf) built with LaTeX. It is inspired in [this](https://texblog.org/2012/04/25/writing-a-cv-in-latex/) blog post and in [this](https://www.latextemplates.com/template/freeman-cv) template.
+This is my long, academic-style [CV](https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf). It is inspired in [this](https://texblog.org/2012/04/25/writing-a-cv-in-latex/) blog post and in [this](https://www.latextemplates.com/template/freeman-cv) template.
 
 <a href="https://github.com/pedro-teles-fonseca/curriculum-vitae-eng/blob/master/Pedro-Fonseca-CV.pdf"><img class="center" src="https://raw.githubusercontent.com/pedro-teles-fonseca/curriculum-vitae-eng/master/images/sample.png" width="200"/></a>
 
