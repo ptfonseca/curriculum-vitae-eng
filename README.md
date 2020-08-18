@@ -1,5 +1,5 @@
 
-![updated](https://img.shields.io/github/last-commit/pedro-teles-fonseca/curriculum-vitae-eng?label=last%20updated)
+![updated](https://img.shields.io/github/last-commit/pedro-teles-fonseca/curriculum-vitae-eng?label=last%20update)
 
 
 # Curriculum Vitae :books:
